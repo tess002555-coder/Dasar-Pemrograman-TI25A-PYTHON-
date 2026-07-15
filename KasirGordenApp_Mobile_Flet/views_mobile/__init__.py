@@ -1,1 +1,0 @@
-# views_mobile package
